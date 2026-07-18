@@ -7,5 +7,13 @@
       "front_scale_points": 50000,
       "ticker_message": "Operation Morgenrot läuft. Die Fronten sind eröffnet."
     }
+  },
+  {
+    "revision": 2,
+    "effective_date": "2026-07-18",
+    "author": "Patrick",
+    "values": {
+      "front_scale_points": 25000
+    }
   }
 ]
