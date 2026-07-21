@@ -45,5 +45,20 @@
         "ozeanien": 25000
       }
     }
+  },
+  {
+    "revision": 5,
+    "effective_date": "2026-07-21",
+    "author": "Patrick",
+    "values": {
+      "machine_pressure": {
+        "afrika": 25000,
+        "asien": 50000,
+        "europa": 50000,
+        "nordamerika": 25000,
+        "suedamerika": 25000,
+        "ozeanien": 25000
+      }
+    }
   }
 ]
