@@ -60,5 +60,13 @@
         "ozeanien": 25000
       }
     }
+  },
+  {
+    "revision": 6,
+    "effective_date": "2026-07-22",
+    "author": "patrick",
+    "values": {
+      "ticker_message": "Operation Morgenrot läuft. Update läuft"
+    }
   }
 ]
