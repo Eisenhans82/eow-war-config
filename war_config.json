@@ -84,5 +84,13 @@
     "values": {
       "ticker_message": "Operation Dust : Conquer Europa - NO STEP BACK - DEFEND EUROPA"
     }
+  },
+  {
+    "revision": 9,
+    "effective_date": "2026-07-22",
+    "author": "patrick",
+    "values": {
+      "ticker_message": "Operation Dust : NO STEP BACK - DEFEND EUROPA"
+    }
   }
 ]
