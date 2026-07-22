@@ -68,5 +68,13 @@
     "values": {
       "ticker_message": "Operation Morgenrot läuft. Update läuft"
     }
+  },
+  {
+    "revision": 7,
+    "effective_date": "2026-07-22",
+    "author": "patrick",
+    "values": {
+      "ticker_message": "Operation Dust : Conquer Europa "
+    }
   }
 ]
